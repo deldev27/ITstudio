@@ -1,6 +1,6 @@
 .video {
 	height: 735px;
-	background-image: url('./imgs/videoBg.svg');
+	background-image: url('../imgs/videoBg.svg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding: 70px 0px 0px 0px;
